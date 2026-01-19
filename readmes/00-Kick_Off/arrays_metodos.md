@@ -5,7 +5,7 @@
 <hr>
 <br>
 
-[Volver a Inicio](../../README.md)
+[Volver](./00-kick_off.md)
 
 [Visita mi LinkedIn](www.linkedin.com/in/ariel-alejandro-romero-fullstack-developer)
 
@@ -425,5 +425,7 @@ console.log(array2);
 </p>
 </details>
 <hr>
+
+[Volver](./00-kick_off.md)
 
 [Volver a Inicio](../../README.md)

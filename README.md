@@ -2,7 +2,7 @@
 
 ## Apuntes de Clases
 
-- [Kick-Off](./readmes/00/00.md)
+- [Kick-Off](./readmes/00-Kick_Off/00-kick_off.md)
 - [01- Backend Architecture]()
 - [02- NestJS Fundamentals I]()
 - [03- NestJS Fundamentals II]()

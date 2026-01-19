@@ -1,6 +1,6 @@
 # Lenguaje Mark Down para Archivos .md (Readmes)
 
-[Volver a Inicio](../../README.md)
+[Volver](./00-kick_off.md)
 
 ## Tomar apuntes digitales
 
@@ -61,5 +61,7 @@ const variable = null;
 // Bloque de código JavaScript
 const saluudar = () => console.log("Hola Mundo");
 ```
+
+[Volver](./00-kick_off.md)
 
 [Volver a Inicio](../../README.md)

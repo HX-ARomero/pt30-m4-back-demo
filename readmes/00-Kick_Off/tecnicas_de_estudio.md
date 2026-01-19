@@ -1,6 +1,6 @@
 # Técnicas de Estudio
 
-[Volver a Inicio](../../README.md)
+[Volver](./00-kick_off.md)
 
 > técnicas populares de gestión del tiempo y productividad, incluyendo los cuadrantes de Stephen Covey, Pomodoro, el pájaro carpintero y otras útiles.
 
@@ -8,7 +8,7 @@
 
 Organiza las tareas según urgencia e importancia:
 
-<img src="https://i0.wp.com/soyemprendedora.com.ar/wp-content/uploads/2023/02/cuadrantes-de-Stephen-Covey.webp?fit=505%2C318&ssl=1">
+<img src="./assets/cuadrantes-de-Stephen-Covey.webp">
 
 Objetivo:
 
@@ -82,5 +82,7 @@ Objetivo:
 | **Ivy Lee**           | Simplicidad/prioridad | Acción enfocada diaria    |
 
 ---
+
+[Volver](./00-kick_off.md)
 
 [Volver a Inicio](../../README.md)
