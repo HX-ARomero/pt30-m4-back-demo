@@ -416,8 +416,6 @@ nest g co <path/nombre> --no-spec
 - Pueden crearse en una carpeta "./src/middlewares", ó dentro de la carpeta de la entidad correspondiente si forma parte exclusiva de un módulo.
 - En Nest JS puede crearse de forma manual o mediante la CLI
 
----
-
 [Volver al Indice](#indice)
 
 ---
