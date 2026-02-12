@@ -19,7 +19,8 @@
 - [05- NestJS & TypeORM](./readmes/05-NestJS_TypeORM/NestJS-05.md)
 - [06- NestJS Pipes](./readmes/06-NestJS_Pipes/NestJS-06.md)
   - [Secuencia de Arranque de NestJS](./readmes/06-NestJS_Pipes/NestJS-06-ArranqueNestJS.md)
-- [07- NestJS File Upload]()
+- [07- NestJS File Upload](./readmes/07-NestJS_File_Upload/NestJS-07.md)
+  - [Refactorización de Código](./readmes/07-NestJS_File_Upload/NestJS-07-Refactor.md)
 - [08- Autenticación I]()
 - [09- Autenticación II]()
 - 10- NestJS Testing
