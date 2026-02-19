@@ -22,7 +22,9 @@
 - [07- NestJS File Upload](./readmes/07-NestJS_File_Upload/NestJS-07.md)
   - [Refactorización de Código](./readmes/07-NestJS_File_Upload/NestJS-07-Refactor.md)
 - [08- Autenticación I](./readmes/08-NestJS_Auth_I/NestJS-08.md)
-- [09- Autenticación II]()
+- 09- Autenticación II
+  - [Autenticación II - Versión con String](./readmes/09-NestJS_Auth_II/NestJS-09.md)
+  - [Autenticación II - Versión con Array](./readmes/09-NestJS_Auth_II/NestJS-09-array.md)
 - 10- NestJS Testing
   - [Ciclo de Vida del Software]()
   - [Testing]()
