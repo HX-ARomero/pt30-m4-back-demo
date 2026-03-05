@@ -1,5 +1,11 @@
 # Cohorte Part Time 30 - Módulo 4 Especialidad Backend 💾
 
+## Regalos de fin de Módulo
+
+- [Datos curiosos sobre programación](./readmes/Regalos/DatosCuriosos.md)
+- [Material Extra Interesante](./readmes/Regalos/Regalos.md)
+- [Simulacro de CheckPoint](./readmes/Regalos/SimulacroChoice.md)
+
 ## Apuntes de Clases
 
 - [Kick-Off](./readmes/00-Kick_Off/00-kick_off.md)
